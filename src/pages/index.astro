@@ -1,0 +1,21 @@
+---
+// src/pages/index.astro
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/home/Hero.astro';
+import TechStack from '../components/home/TechStack.astro';
+import FeaturedProjects from '../components/home/FeaturedProjects.astro';
+import LatestBlogs from '../components/home/LatestBlogs.astro';
+import LatestVlogs from '../components/home/LatestVlogs.astro';
+---
+
+<BaseLayout title="Portofolio | Arrosyid Al Ayubi" description="Web & Mobile Developer. Mahasiswa Sistem Informasi yang berfokus pada performa dan skalabilitas aplikasi.">
+  <div class="max-w-5xl mx-auto px-4 md:px-8 py-12 md:py-20">
+    
+    <Hero />
+    <TechStack />
+    <FeaturedProjects />
+    <LatestBlogs />
+    <LatestVlogs />
+
+  </div>
+</BaseLayout>
