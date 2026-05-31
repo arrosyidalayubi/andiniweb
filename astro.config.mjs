@@ -11,6 +11,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()]
   },
-  site: 'https://arrosyid.my.id',
+  site: 'https://andini.my.id',
   integrations: [mdx(), sitemap()]
 });

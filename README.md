@@ -1,8 +1,8 @@
-# 🚀 Arrosyid Personal Web & Portfolio
+# 🚀 Andini Personal Web & Portfolio
 
 Website portofolio, blog, dan vlog pribadi yang dibangun dengan fokus pada performa maksimal (Lighthouse 100/100), Aksesibilitas (A11y), dan *User Experience* (UX) kelas atas.
 
-🌐 **Live Demo:** [arrosyid.my.id](https://arrosyid.my.id)
+🌐 **Live Demo:** [andini.my.id](https://andini.my.id)
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
